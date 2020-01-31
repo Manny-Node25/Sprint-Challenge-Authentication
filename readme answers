@@ -1,0 +1,5 @@
+1.providing state to stateless HTTP protocols
+2.Bcrypt hashes passwords cryptographically, which gives it the security advantage over standard encryption.
+3.Adds time to create a key derivation function
+4.Header, payload, signature
+
